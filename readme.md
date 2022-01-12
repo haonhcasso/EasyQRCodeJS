@@ -107,7 +107,7 @@ EasyQRCodeJS 是一个功能丰富的跨浏览器的纯 JavaScript QRCode 生成
 
 ## Try It!
 
-[Try It!](http://www.easyproject.cn/easyqrcodejs/tryit.html "EasyQRCodeJS Try It!")
+[Try It!](http://my.vietqr.io/ "Easy To Try It!")
 
 ## Demo preview
 
